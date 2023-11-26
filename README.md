@@ -28,7 +28,7 @@ Inside the `.instructions` folder you will find a number of markdown files that 
 In this project you will find:
 
 -   a `main.js` file with completed code
--   an `instructions` folder all the instructions for this workshop.
+-   an `.instructions` folder all the instructions for this workshop.
 -   an `assets` folder containing images used in this workshop documentation.
 
 <br>
